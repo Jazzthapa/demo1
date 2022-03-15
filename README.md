@@ -1,1 +1,1 @@
-This is manual file
+This is manual file new.
